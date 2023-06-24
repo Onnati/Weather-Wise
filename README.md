@@ -1,6 +1,6 @@
-# Weather-web-app
+# Weather Wise
 
-I created a new web application with JavaScript.
+Developed web application with JavaScript.
 
 This app will show the weather information that it will get from the API like this, an Icon that shows the weather status, the temperature value is in both units, Celsius amd farenheit, the weather description (clear sky), and then the user's city and country (London, GB).
 
